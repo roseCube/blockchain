@@ -1,2 +1,6 @@
-# Initial page
+---
+description: 各種區塊鏈安裝與除錯心得
+---
+
+# 區塊鍊筆記
 
